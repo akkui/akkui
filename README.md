@@ -13,8 +13,7 @@ Todas essas são uma visão geral das áreas na qual eu atuo ou tenho conhecimen
 - Sistemas de Criptografia.
 
 ## Meus Projetos
-![Logo do GitHub](https://github.com/seu-usuario/seu-repositorio/raw/main/nome-da-imagem.jpg)
-
+<img src="https://raw.githubusercontent.com/akkui/akkui/main/images/instalockapp_card.png" width="400" height="150">
 
 ## Sobre Mim
 Eu me chamo <b>Otávio</b>, também conhecido como <b>"akkui"</b> ou qualquer variação do mesmo (akui, kui, etcetera).<br>
