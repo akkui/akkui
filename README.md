@@ -12,17 +12,26 @@ Todas essas são uma visão geral das áreas na qual eu atuo ou tenho conhecimen
 - Websites com CHATs Onlines e Streaming.
 - Sistemas de Criptografia.
 
+## Meus Projetos
+![Logo do GitHub](https://github.com/seu-usuario/seu-repositorio/raw/main/nome-da-imagem.jpg)
+
+
 ## Sobre Mim
 Eu me chamo <b>Otávio</b>, também conhecido como <b>"akkui"</b> ou qualquer variação do mesmo (akui, kui, etcetera).<br>
 Eu tenho <b>16 Anos</b> e sou da região metropolitana de <b>Porto Alegre, em Rio Grande do Sul</b>.
 
+<details>
+<summary>Saiba mais sobre a minha história.</summary>
+<h2>Minha História</h2>
 Comecei o meu interesse em programação por volta de 2016, com a ascenção dos servidores no jogo Minecraft eu também<br>
-queria ter o meu, e então comecei a procurar vídeos de como aprender PHP, por ser muito novo, desisti.
+queria ter o meu, e então comecei a procurar vídeos de como aprender PHP, por ser muito novo, desisti.<br><br>
 
 Anos depois, quando eu ganhei o meu primeiro computador, jogava o Minecraft Java Edition, e hospedando localmente havia<br>
 criado o meu primeiro servidor. Utilizando plugins da internet, eu apenas editava os arquivos XML, após isso, decidi aprender<br>
 a criar os meus próprios, e então eu conheci o JAVA; porém, devido a complexidade pra mim na época, havia desistido. Sem querer e<br>
 inocentemente havia encontrado enquanto pesquisava sobre JAVA uma linguagem chamada JavaScript, e pesquisando mais, descobri que a<br>
 mesma poderia ser usada pra criar BOTs para a plataforma Discord, e pesquisando mais afundo tive o meu primeiro contato com o NodeJS.
+</details>
 
 ## Entre em Contato
+- <h3>Discord: akkui</h3>
