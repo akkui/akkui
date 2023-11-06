@@ -13,8 +13,8 @@ Todas essas são uma visão geral das áreas na qual eu atuo ou tenho conhecimen
 - Sistemas de Criptografia.
 
 ## Meus Projetos
-<a href="https://instalock-akkui.glitch.me/"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/InstalockAPP.png" width="475.5" height="171.5"></a>
-<a href="https://akkui-sync.glitch.me/"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/AkkuiSYNC.png" width="475.5" height="171.5"></a>
+<a href="https://instalock-akkui.glitch.me/" target="_blank"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/InstalockAPP.png" width="475.5" height="171.5"></a>
+<a href="https://akkui-sync.glitch.me/" target="_blank"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/AkkuiSYNC.png" width="475.5" height="171.5"></a>
 
 ## Sobre Mim
 Eu me chamo <b>Otávio</b>, também conhecido como <b>"akkui"</b> ou qualquer variação do mesmo (akui, kui, etcetera).<br>
