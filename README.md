@@ -12,6 +12,10 @@ Todas essas são uma visão geral das áreas na qual eu atuo ou tenho conhecimen
 - Websites com CHATs Onlines e Streaming.
 - Sistemas de Criptografia.
 
+### Em aprendizado....
+- Segurança da Informação (Entusiasta)
+- Hacking Ético (Entusiasta)
+
 ## Meus Projetos
 <a href="https://instalock-akkui.glitch.me/"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/InstalockAPP.png" width="475.5" height="171.5"></a>
 <a href="https://akkui-sync.glitch.me/"><img src="https://raw.githubusercontent.com/akkui/akkui/main/images/AkkuiSYNC.png" width="475.5" height="171.5"></a>
