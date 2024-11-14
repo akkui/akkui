@@ -1,5 +1,5 @@
 # Olá, seja bem-vindo(a)! 👋
-Sou **akkui**, um desenvolvedor back-end apaixonado por segurança da informação.<br>
+Me chamo **Otávio L.**, mas também conhecido como **akkui**, sou desenvolvedor back-end apaixonado por segurança da informação.<br>
 Utilizo NodeJS para back-end e estou estudando C.<br>
 
 Tenho como principal projeto o **AxonHub**.<br>
